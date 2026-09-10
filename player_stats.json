@@ -1,0 +1,59 @@
+{
+    "javi": {
+        "display_name": "Javi",
+        "vs_computer": {
+            "games": 3,
+            "wins": 2,
+            "losses": 1,
+            "wars_won": 44,
+            "wars_lost": 42,
+            "longest_game": 740
+        },
+        "vs_player": {
+            "games": 2,
+            "wins": 1,
+            "losses": 1,
+            "wars_won": 15,
+            "wars_lost": 14,
+            "longest_game": 336
+        }
+    },
+    "a": {
+        "display_name": "a",
+        "vs_computer": {
+            "games": 0,
+            "wins": 0,
+            "losses": 0,
+            "wars_won": 0,
+            "wars_lost": 0,
+            "longest_game": 0
+        },
+        "vs_player": {
+            "games": 0,
+            "wins": 0,
+            "losses": 0,
+            "wars_won": 0,
+            "wars_lost": 0,
+            "longest_game": 0
+        }
+    },
+    "chewie": {
+        "display_name": "Chewie",
+        "vs_computer": {
+            "games": 0,
+            "wins": 0,
+            "losses": 0,
+            "wars_won": 0,
+            "wars_lost": 0,
+            "longest_game": 0
+        },
+        "vs_player": {
+            "games": 2,
+            "wins": 1,
+            "losses": 1,
+            "wars_won": 14,
+            "wars_lost": 15,
+            "longest_game": 336
+        }
+    }
+}
